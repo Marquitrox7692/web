@@ -8,8 +8,6 @@ if (messageCustom) {
   mainMessageElement.textContent = decodeURI(messageCustom)
 }
 
-// the tutorial starts here
-
 const btnOpenElement = document.querySelector('#open')
 const btnCloseElement = document.querySelector('#close')
 
